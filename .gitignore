@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Problems/Check IP address/out/
+/Problems/Check IP address/out/production/classes/
+/Problems/Double factorial/out/
+/Problems/Double factorial/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Fix compile-time errors/out/
+/Problems/Fix compile-time errors/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Getting the max element of a stack/out/
+/Problems/Getting the max element of a stack/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Number parsing/out/
+/Problems/Number parsing/out/production/classes/
+/Problems/Safe password/out/
+/Problems/Safe password/out/production/classes/
+/Problems/Test learners/out/
+/Problems/Test learners/out/production/classes/
+/Problems/The LIFO principle in action/out/
+/Problems/The LIFO principle in action/out/production/classes/
+/Problems/Vehicle registration number/out/
+/Problems/Vehicle registration number/out/production/classes/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
